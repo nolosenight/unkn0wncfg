@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "gamesence",
+        "description": "Топ 1 хвх чит для CS:GO. Для работы вам нужно в параметры запуска поставить -insecure",
+        "author": "QHide",
+        "status": "crack",
+        "process": "csgo.exe",
+        "file": "skeet.dll",
+        "source": "https://yougame.biz/threads/338779/",
+        "game": "CS:GO"
+    }
+]
